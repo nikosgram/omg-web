@@ -1,3 +1,4 @@
+```log
 Test1 StringBuilder:
 Task [9]: Code:[200] Delay:[92ms], PostDelay:[31ms], DownloadDelay:[12ms]
 ...
@@ -37,3 +38,4 @@ Test2 String:
 Task [4]: Code:[200] Delay:[86ms], PostDelay:[29ms], DownloadDelay:[11ms]
 ...
 Task [Final]: Code:[200] Delay:[88ms], PostDelay:[31ms], DownloadDelay:[2ms]
+```
